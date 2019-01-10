@@ -147,6 +147,7 @@ input{
 }
 button {
 	border: none;
+	background-color: azure;
 }
 
 /*news letter end*/
